@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @lolosaisa
+- 👨‍💻 a frontend Developer
+- 🌀 i use flutter dart, python and JavaScript 
 - 👀 I’m interested in android development 
-- 🌱 I’m currently learning kotlin for Android development 
+  
 - 💞️ I’m looking to collaborate on software engineering 
 - 📫 How to reach me mburuwamaitha0@gmail.com
 - ☎️ Ask me about web development 
