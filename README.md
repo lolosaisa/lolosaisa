@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolosaisa
 - 👨‍💻 a frontend Developer and student @ALX
 - I am really good at C lol.
-- 🌀 i use flutter dart, python and C
+- 🌀 i use flutter dart, python , Javascript and C
 - Looking forwad to perfecting my js, c# and python
 - 👀 I’m interested in android development 
   
