@@ -3,7 +3,8 @@
 - 👨‍💻 I am really good at C lol.
 - 🌀 i use flutter dart, python , Javascript and C
 - Looking forwad to perfecting my js, c# and python
-- 👀 I’m interested in android development 
+- 👀 I’m interested in smart contract development
+- Recently started learning about web3
   
 - 💞️ I’m looking to collaborate on software engineering 
 - 📫 How to reach me mburuwamaitha0@gmail.com
