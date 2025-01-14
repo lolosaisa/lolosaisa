@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lolosaisa
 - 👨‍💻 a frontend Developer and student @ALX
 - 👨‍💻 I am really good at C lol.
-- 🌀 i use flutter dart, python , Javascript and C
+- 🌀 i use Solidity, python , Javascript, flutter dart, and C
 - Looking forwad to perfecting my js, c# and python
-- 👀 I’m interested in smart contract development
+- 👀 A smart Contract Developer using solidity
 - Recently started learning about web3
   
 - 💞️ I’m looking to collaborate on software engineering 
